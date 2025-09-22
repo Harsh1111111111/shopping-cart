@@ -1,4 +1,4 @@
-package com.shashi.srv;
+package com.harsh.srv;
 
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -11,11 +11,11 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
-import com.shashi.beans.DemandBean;
-import com.shashi.beans.ProductBean;
-import com.shashi.service.impl.CartServiceImpl;
-import com.shashi.service.impl.DemandServiceImpl;
-import com.shashi.service.impl.ProductServiceImpl;
+import com.harsh.beans.DemandBean;
+import com.harsh.beans.ProductBean;
+import com.harsh.service.impl.CartServiceImpl;
+import com.harsh.service.impl.DemandServiceImpl;
+import com.harsh.service.impl.ProductServiceImpl;
 
 /**
  * Servlet implementation class UpdateToCart

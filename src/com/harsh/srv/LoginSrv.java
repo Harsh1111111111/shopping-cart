@@ -1,4 +1,4 @@
-package com.shashi.srv;
+package com.harsh.srv;
 
 import java.io.IOException;
 
@@ -10,8 +10,8 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
-import com.shashi.beans.UserBean;
-import com.shashi.service.impl.UserServiceImpl;
+import com.harsh.beans.UserBean;
+import com.harsh.service.impl.UserServiceImpl;
 
 /**
  * Servlet implementation class LoginSrv

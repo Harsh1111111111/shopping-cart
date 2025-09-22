@@ -1,4 +1,4 @@
-package com.shashi.utility;
+package com.harsh.utility;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

@@ -1,4 +1,4 @@
-package com.shashi.srv;
+package com.harsh.srv;
 
 import java.io.IOException;
 
@@ -10,8 +10,8 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
-import com.shashi.beans.ProductBean;
-import com.shashi.service.impl.ProductServiceImpl;
+import com.harsh.beans.ProductBean;
+import com.harsh.service.impl.ProductServiceImpl;
 
 /**
  * Servlet implementation class UpdateProductSrv

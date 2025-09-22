@@ -1,8 +1,8 @@
-package com.shashi.service;
+package com.harsh.service;
 
 import java.util.List;
 
-import com.shashi.beans.DemandBean;
+import com.harsh.beans.DemandBean;
 
 public interface DemandService {
 

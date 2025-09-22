@@ -1,6 +1,6 @@
-package com.shashi.service;
+package com.harsh.service;
 
-import com.shashi.beans.UserBean;
+import com.harsh.beans.UserBean;
 
 public interface UserService {
 

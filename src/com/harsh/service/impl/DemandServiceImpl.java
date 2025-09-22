@@ -1,4 +1,4 @@
-package com.shashi.service.impl;
+package com.harsh.service.impl;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -7,9 +7,9 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.shashi.beans.DemandBean;
-import com.shashi.service.DemandService;
-import com.shashi.utility.DBUtil;
+import com.harsh.beans.DemandBean;
+import com.harsh.service.DemandService;
+import com.harsh.utility.DBUtil;
 //This class is to process the demand items which are
 //not available at the time of purchase by any customer
 //the customer will receive mail once the product is avaible

@@ -1,4 +1,4 @@
-package com.shashi.srv;
+package com.harsh.srv;
 
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -11,9 +11,9 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
-import com.shashi.service.impl.OrderServiceImpl;
-import com.shashi.service.impl.UserServiceImpl;
-import com.shashi.utility.MailMessage;
+import com.harsh.service.impl.OrderServiceImpl;
+import com.harsh.service.impl.UserServiceImpl;
+import com.harsh.utility.MailMessage;
 
 /**
  * Servlet implementation class ShipmentServlet

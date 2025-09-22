@@ -1,4 +1,4 @@
-package com.shashi.service.impl;
+package com.harsh.service.impl;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -7,13 +7,13 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.shashi.beans.CartBean;
-import com.shashi.beans.OrderBean;
-import com.shashi.beans.OrderDetails;
-import com.shashi.beans.TransactionBean;
-import com.shashi.service.OrderService;
-import com.shashi.utility.DBUtil;
-import com.shashi.utility.MailMessage;
+import com.harsh.beans.CartBean;
+import com.harsh.beans.OrderBean;
+import com.harsh.beans.OrderDetails;
+import com.harsh.beans.TransactionBean;
+import com.harsh.service.OrderService;
+import com.harsh.utility.DBUtil;
+import com.harsh.utility.MailMessage;
 
 public class OrderServiceImpl implements OrderService {
 

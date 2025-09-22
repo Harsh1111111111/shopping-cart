@@ -1,10 +1,10 @@
-package com.shashi.service;
+package com.harsh.service;
 
 import java.util.List;
 
-import com.shashi.beans.OrderBean;
-import com.shashi.beans.OrderDetails;
-import com.shashi.beans.TransactionBean;
+import com.harsh.beans.OrderBean;
+import com.harsh.beans.OrderDetails;
+import com.harsh.beans.TransactionBean;
 
 public interface OrderService {
 

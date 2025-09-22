@@ -1,15 +1,15 @@
-package com.shashi.service.impl;
+package com.harsh.service.impl;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-import com.shashi.beans.UserBean;
-import com.shashi.constants.IUserConstants;
-import com.shashi.service.UserService;
-import com.shashi.utility.DBUtil;
-import com.shashi.utility.MailMessage;
+import com.harsh.beans.UserBean;
+import com.harsh.constants.IUserConstants;
+import com.harsh.service.UserService;
+import com.harsh.utility.DBUtil;
+import com.harsh.utility.MailMessage;
 
 public class UserServiceImpl implements UserService {
 

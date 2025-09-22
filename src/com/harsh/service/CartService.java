@@ -1,8 +1,8 @@
-package com.shashi.service;
+package com.harsh.service;
 
 import java.util.List;
 
-import com.shashi.beans.CartBean;
+import com.harsh.beans.CartBean;
 
 public interface CartService {
 
